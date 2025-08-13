@@ -32,3 +32,4 @@ En esta clase vimos los comando basicos de Git y creamos/vinculamos un repo en G
 * `git push -u origin main` me traigo el repo remoto
 * `git pull origin main` envio los cambios al repo remoto
 * `get remote -v` me lista los repos remotos que tengo asociados
+* `git merge clase1` me traigo los cambios de una branch local
