@@ -35,4 +35,5 @@ En esta clase vimos los comando basicos de Git y creamos/vinculamos un repo en G
 * `git branch -r` me lista todos los branches remotos
 * `git merge clase1` me traigo los cambios de una branch local
 * `git push origin clase1` si no exite la branch, la crea
+* `git clone URLdeRepo` clona el repo referenciado en la URL 'URLdeRepo'
 
